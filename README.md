@@ -1,2 +1,3 @@
 # pagopa-rt
-Modello per Ricevuta Telematica (RT) pagoPA
+[IT] Modello per Ricevuta Telematica (RT) pagoPA (JasperReports)
+[ET] PagoPA Telematic Receipt (RT) template (JasperReports)Cancel changes
